@@ -20,11 +20,11 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/backup-heavenly-demons/heavenly-demons-cli
+git clone https://github.com/xlsmartlc/xlsmartlc-demons-cli
 ```
 4. Open the folder
 ```
-cd heavenly-demons-cli
+cd xlsmartlc-demons-cli
 ```
 5. Setup
 ```
