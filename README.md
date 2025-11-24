@@ -32,11 +32,11 @@ bash setup.sh
 ```
 6. Run the script
 ```
-6. Shell
+python main.py
+```
+7. Shell
 ```
 git pull --rebase
-```
-python main.py
 ```
 
 # Info
