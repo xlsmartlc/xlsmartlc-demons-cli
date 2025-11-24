@@ -59,10 +59,10 @@ def show_main_menu(profile):
     menu_table.add_column("Action", style="bold white")
 
     menu_items = [
-        ("1", "Login/Ganti akun"),
-        ("2", "Lihat Paket Saya"),
-        ("3", "Beli Paket 🔥 HOT 🔥"),
-        ("4", "Beli Paket 🔥 HOT-2 🔥"),
+        ("1", "Janda baru dulu kawan🤣"),
+        ("2", "Liat Janda dulu kawan🤣"),
+        ("3", "Beli Paket 🐧 HOT 🐧"),
+        ("4", "Beli Paket 🐧 HOT-2 🐧"),
         ("5", "Beli Paket conference"),
         ("6", "BIZ lite (BIZ ORI only )"),
         ("7", "BIZ Data+ (BIZ ORI only )"),
