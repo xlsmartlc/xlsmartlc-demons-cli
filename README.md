@@ -33,7 +33,7 @@ bash setup.sh
 6. Run the script
 ```
 7. Shell
-
+```
 git pull --rebase
 ```
 python main.py
