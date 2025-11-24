@@ -67,7 +67,7 @@ def show_main_menu(profile):
         ("6", "BIZ lite (BIZ ORI only )"),
         ("7", "BIZ Data+ (BIZ ORI only )"),
         ("8", "Beli Paket (Option Code)"),
-        ("9", "Beli Paket (Family Code)"),
+        ("9", "Coli Janda baru🤣 (Family Code)"),
         ("10", "Beli Semua Paket (Loop)"),
         ("11", "Riwayat Transaksi"),
         ("12", "Family Plan/Akrab"),
