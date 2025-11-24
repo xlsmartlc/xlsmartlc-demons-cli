@@ -35,7 +35,7 @@ bash setup.sh
 7. Shell
 ```
 git pull --rebase
-
+```
 python main.py
 ```
 
