@@ -32,8 +32,6 @@ bash setup.sh
 ```
 6. Run the script
 ```
-git pull --rebase
-```
 python main.py
 ```
 
