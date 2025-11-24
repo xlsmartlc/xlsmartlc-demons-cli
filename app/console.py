@@ -86,27 +86,16 @@ def clear():
 def print_ascii_art():
     art = r"""
  [neon_cyan]                                      
-          .                                                        .
-        .n                   .        .       .                     n.
-  .   .dP                  dP       .art.      9b                    9b.   .
- 4    qXb         .       dX       ©ukons©      Xb       .           dXp    t
-dX.    9Xb      .dXb    .dxb        ′dev′       dXb.    dXP         dx6    .Xb
-9XXb._       _.dXXXXb dXXXXbo.        ′      .odXXXXb dXXXXb._          _.dXXP
- 9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.            .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP
-  `9XXXXXXXXXXXXXXXXXXXXX'~   ~`OOO8b   d8OOO'~   ~`XXXXXXXXXXXXXXXXXXXXXP'
-    `9XXXXXXXXXXXP' `9XX' HEAVENLY `98v8P' HEAVENLY `XXP' `9XXXXXXXXXXXP'
-        ~~~~~~~       9X.  DEMONS  .db|db.  DEMONS  .XP       ~~~~~~~
-                        )b.      .dP'`v'`9b.     .dX(
-                      ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
-                     dXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb
-                    dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb
-                    9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP
-                     `'      9XXXXXX(   )XXXXXXP      `'
-                              XXXX X.`v'.X XXXX
-                              XP^X'`b   d'`X^XX
-                              X. 9  `   '  P )X
-                              `b  `       '  d'
-                               `             '
+           _____ ______       ___    ___      ___    ___ ___          
+|\   _ \  _   \    |\  \  /  /|    |\  \  /  /|\  \         
+\ \  \\\__\ \  \   \ \  \/  / /    \ \  \/  / | \  \        
+ \ \  \\|__| \  \   \ \    / /      \ \    / / \ \  \       
+  \ \  \    \ \  \   \/  /  /        /     \/   \ \  \____  
+   \ \__\    \ \__\__/  / /         /  /\   \    \ \_______\
+    \|__|     \|__|\___/ /         /__/ /\ __\    \|_______|
+                  \|___|/          |__|/ \|__|              
+                                                            
+                                                            
  [/neon_cyan]
     """
     console.print(Align.center(art))
