@@ -5,7 +5,7 @@
 CLI client for a certain Indonesian mobile internet service provider.
 
 # How to get environtment Variables
-Go to [OUR TELEGRAM CHANNEL](https://t.me/alyxcli)
+Go to [OUR TELEGRAM CHANNEL](https://t.me/PIHAKSMART)
 Copy the provided environment variables and paste it into a text file named `.env` in the same directory as `main.py`.
 You can use nano or any text editor to create the file.
 
@@ -20,11 +20,11 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/backup-heavenly-demons/heavenly-demons-cli
+git clone https://github.com/xlsmartlc/xlsmartlc-demons-cli
 ```
 4. Open the folder
 ```
-cd heavenly-demons-cli
+cd xlsmartlc-demons-cli
 ```
 5. Setup
 ```
