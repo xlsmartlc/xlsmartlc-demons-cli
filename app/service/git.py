@@ -2,8 +2,8 @@ import subprocess
 import requests
 import xml.etree.ElementTree as ET
 
-OWNER = "purplemashu"
-REPO  = "me-cli-sunset"
+OWNER = "xlsmartlc"
+REPO  = "xlsmartlc-demons-cli"
 BRANCH = "main"
 
 def get_local_commit():
