@@ -109,7 +109,7 @@ def show_account_menu():
         print_cyber_panel(table, title="SAVED ACCOUNTS")
         
         console.print(Panel(
-            """[bold white]0[/]: Tambah Akun
+            """[bold white]0[/]: Janda baru kawan🤣
 [bold white]1-N[/]: Ganti Akun (Pilih Nomor)
 [bold white]del <N>[/]: Hapus Akun
 [bold white]00[/]: Kembali ke menu utama""",
