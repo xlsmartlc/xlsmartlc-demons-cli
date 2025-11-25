@@ -74,7 +74,7 @@
                 "migration_type": "NONE",
                 "variant_code": "e7720acc-4ea3-4c68-9e6b-a181495b21df",
                 "option_name": "Plus - Reguler - 7GB",
-                "order": 1
+                "order": 23
             },
             {
                 "family_name": "QRIS D 0",
@@ -83,7 +83,7 @@
                 "migration_type": "NONE",
                 "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
                 "option_name": "QRIS D 0",
-                "order": 128
+                "order": 11
             }
         ],
         "payment_for": "SHARE_PACKAGE",
