@@ -63,9 +63,9 @@
         "amount_idx": -1
     },
     {
-        "name": "Pros Champion 20GB + Unlimited",
-        "price": "Rp40000",
-        "detail": "\nUnlimited WA & Spotify.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "name": "CatchPlay+ Lite + Unlimited",
+        "price": "Rp12000",
+        "detail": "\nUnlimited \nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "Xtra Combo Flex",
@@ -73,8 +73,8 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "e7720acc-4ea3-4c68-9e6b-a181495b21df",
-                "option_name": "Pros Champion 20GB",
-                "order": 111
+                "option_name": "CatchPlay+ Lite",
+                "order": 1
             },
             {
                 "family_name": "QRIS D 0",
