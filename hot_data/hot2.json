@@ -73,7 +73,7 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "e7720acc-4ea3-4c68-9e6b-a181495b21df",
-                "option_name": "CatchPlay+ Lite",
+                "option_name": "CATCHPLAY+ Lite 5GB",
                 "order": 1
             },
             {
@@ -88,7 +88,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 40000,
+        "overwrite_amount": 12000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
