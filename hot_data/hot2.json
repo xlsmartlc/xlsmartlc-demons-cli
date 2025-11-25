@@ -63,9 +63,9 @@
         "amount_idx": -1
     },
     {
-        "name": "Bundling Xtra Combo + Unlimited",
-        "price": "Rp60100",
-        "detail": "\nUnlimited 5GB+5GB & Unlimited Turbo Super.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
+        "name": "Xtra Combo Plus",
+        "price": "Rp40000",
+        "detail": "\nCombo Plus - Reguler - 7GB.\nLangkah pertama di bulan tidak diambil oleh orang yang ragu.\n#RagumuRugimu\nSupported payment: E-wallet & QRIS.",
         "packages": [
             {
                 "family_name": "Xtra Combo Flex",
@@ -73,7 +73,7 @@
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "e7720acc-4ea3-4c68-9e6b-a181495b21df",
-                "option_name": "Bundling Xtra Combo 5GB+5GB",
+                "option_name": "Plus - Reguler - 7GB",
                 "order": 1
             },
             {
@@ -88,7 +88,7 @@
         ],
         "payment_for": "SHARE_PACKAGE",
         "ask_overwrite": false,
-        "overwrite_amount": 60100,
+        "overwrite_amount": 40000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
     },
